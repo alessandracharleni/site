@@ -4,12 +4,17 @@
 }
 
 body {
+    background-image: url('img/pdfundo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100vw;
     height: 100vh;
+    margin: 0;
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
 }
+
 
 .container-cabecalho {
     width: 100vw;
